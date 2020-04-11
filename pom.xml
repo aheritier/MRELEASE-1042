@@ -4,13 +4,13 @@
 
   <groupId>org.apache.maven.release.tests</groupId>
   <artifactId>mrelease-1042</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <scm>
     <connection>scm:git:ssh://git@github.com/aheritier/MRELEASE-1042.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/aheritier/MRELEASE-1042.git</developerConnection>
     <url>https://github.com/aheritier/MRELEASE-1042</url>
-    <tag>mrelease-1042-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
